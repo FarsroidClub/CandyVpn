@@ -1,10 +1,10 @@
 {
-"Title": "خواهش میکنم این متن و بخون 🥲",
-"Description": "منم تا قبل یادگیری این روش کار کردن و کسب درآمد ، داشتم از بابام پول میگرفتم ، اگه میخوای راه درامدزایی یادبگیری فورا بیا عضو کانال شو منتظرتم👇🏻",
-"Link": "tg://join?invite=Xep1jCzk8bZiNTE0",
-"ColorWave": "#673AB7",
+"Title": "فیلترشکن قوی و پرسرعت",
+"Description": "هر کی اینستا و واتساپ و تلگرامش وصل نمیشه بیاد اینجا فیلترشکن قوی بگیره👇🏼",
+"Link": "tg://join?invite=bndeap1BXik0NzU0",
+"ColorWave": "#FF9100",
 "Color": "#FF9100",
-"ColorWaveTwo": "#7C4DFF",
+"ColorWaveTwo": "#FF6D00",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,9 +15,9 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "3",
-"ShowTime": "846140",
-"Button": " آموزش کسب درآمد ",
+"MessageID": "2",
+"ShowTime": "284629",
+"Button": " دانلود فیلترشکن پرسرعت ",
 "ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
